@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @siraht
+- 👀 I’m interested in how data storage, organization, and visualization methods affect human thinking and modes of perception, and how more complex and free digital platforms may allow for greater cognition.
+- 🌱 I’m currently learning Javascript using THe Odin Project.
+- 💞️ I’m looking to collaborate on... nothing yet.
+- 📫 How to reach me: t@travishinton.us
