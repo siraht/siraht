@@ -15,7 +15,7 @@ I've been writing since maybe 2010, recently realized I have 175+ total - and cl
 - Finding balance between the cosmic, godly inspiration coming through me VS the necessity of acute provision for my own and my loved one's survival
 - Bringing God's vision into reality
 
-## Other Things I Keep Coming Back To
+## Other things I keep coming back to and trying to work on
 
 **Health and wellness**
 [Peptide and supplement tracking](https://github.com/siraht/Peptaide), [Breathwork](https://github.com/siraht/Ralph-Hof-Breathwork), [Noah Ryan's Shredmaxxing protocol](https://github.com/siraht/shredmaxxer)
