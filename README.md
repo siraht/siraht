@@ -12,8 +12,8 @@ I've been writing since maybe 2010, recently realized I have 175+ total - and cl
 
 - Attempting to use AI to more easily and effectively manage my life, achieve my goals, and live my ideal lifestyle
 - Building out and running a sauna and cold plunge business with friends: [Third Space & Co](https://thirdspaceand.co/)
-- Finding balance between the cosmic, godly inspiration coming through me VS the necessity of acute provision for my own and my loved one's survival
-- Bringing God's vision into reality
+- Finding balance between the cosmic inspiration coming through me VS the necessity of acute provision for my own and my loved one's survival
+- Bringing [God]'s vision into reality
 
 ## Other things I keep coming back to and trying to work on
 
