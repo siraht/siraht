@@ -29,9 +29,3 @@ I've been writing since maybe 2010, recently realized I have 175+ total - and cl
 **Agentic AI harnesses**
 Attempts at improving agentic AI harnesses, though I'm intentionally trying to sit this one out a bit because there are already so many people doing it:
 [a little skill I made to learn from convos...](https://github.com/siraht/Recursive-Harness-Improvement), [Infogest - tool to attempt to help me keep my sanity while staying atop of AI developments](https://github.com/siraht/Infogest)
-
-## Featured Work
-
-For now, my clearest artifact is poetry:
-
-- [poemsby.travishinton.us](https://poemsby.travishinton.us)
