@@ -2,9 +2,9 @@
 
 I've been super inspired recently, envisioning a new, unified human <> computer paradigm, but unable to really build towards it in any meaningful way.
 
-Funnily enough, most of what I have to show right now is... poetry!
+Funnily enough, most of what I have to show right now is poetry!
 
-I've been writing since maybe 2010, recently realized I have 175+ total - and close to 10 that I legitimately love - and that I should put myself out into the world in this way. Thanks agentic AI for making it easy ☺️
+I've been writing since maybe 2010, recently realized I have 175+ total and that I should put myself out into the world in this way.
 
 [Check it if you like poetry](https://poemsby.travishinton.us)
 
